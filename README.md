@@ -21,7 +21,7 @@
 
 - 🎓 3rd Year B.Tech CSE student at **Indian Institute of Information Technology (IIIT), Senapati, Manipur**
 - 💻 Currently focusing on **Backend Development**, with hands-on experience in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🔥 Solved **160+ DSA questions on LeetCode** and **115+ DSA questions on GeeksforGeeks**
+- 🔥 Solved **185+ DSA questions on LeetCode** and **120+ DSA questions on GeeksforGeeks**
 - 🏅 Currently ranked **#78 in my institute on GeeksforGeeks**
 - 🌱 Currently learning **System Design**
 - 📍 Based in India
