@@ -66,15 +66,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RocktimDoley15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocktimDoley15&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RocktimDoley15&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=RocktimDoley15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
-
 ---
 
 ## 🎯 Currently
