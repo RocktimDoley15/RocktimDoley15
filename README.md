@@ -61,20 +61,25 @@
 ![System Design](https://img.shields.io/badge/System%20Design-Learning-yellow?style=flat-square)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=RocktimDoley15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocktimDoley15&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=RocktimDoley15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=RocktimDoley15&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RocktimDoley15&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 ---
+
 
 ## 🎯 Currently
 
