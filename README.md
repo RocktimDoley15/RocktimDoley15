@@ -62,26 +62,23 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=RocktimDoley15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RocktimDoley15&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocktimDoley15&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocktimDoley15&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=RocktimDoley15&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="80%" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=RocktimDoley15&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RocktimDoley15&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RocktimDoley15&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity Graph" />
 
 </div>
 
