@@ -61,6 +61,7 @@
 ![System Design](https://img.shields.io/badge/System%20Design-Learning-yellow?style=flat-square)
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -71,13 +72,16 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RocktimDoley15&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=RocktimDoley15&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="80%" alt="GitHub Streak" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RocktimDoley15&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
+
+---
+
 ---
 
 
